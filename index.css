@@ -1,0 +1,68 @@
+h1 { text-align: center;
+color: pink;}
+h2 { text-align: center;
+color: cyan;}
+body{
+  background-color: black;
+}
+
+ table{
+   width: 60%;
+   margin: 0 auto;
+ }
+a{text-align: center;}
+.soup{ width: 350px;
+height: 300px;
+  border: 5px solid red;
+}
+.brownie{ width: 350px;
+height: 300px;
+border: 5px solid blue;
+}
+.macncheese{ width: 350px;
+height: 300px;
+border: 5px solid green;
+}
+.potpie{ width: 350px;
+height: 300px;
+border: 5px solid yellow;
+}
+.cookie{ width: 350px;
+height: 300px;
+border: 5px solid pink;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.table1 {
+  border: 3px solid red;
+  color: orange;
+}
+.table2{border: 3px solid blue;
+color: purple;}
+
+.table3{border: 3px solid pink;
+color: red;
+}
+
+.table4{border: 3px solid green;
+color: violet;}
+
+.table5{border: 3px solid yellow;
+color:magenta ;
+}
+div {
+  margin: auto;
+  width: 25%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  text-align: center;
+}
+.height{
+  height:800px;
+  border: black;
+}
